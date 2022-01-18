@@ -1,7 +1,7 @@
 # PHP_PAYROLL_MANAGEMENT_SYSTEM
 I Developed this website using php, js, css, html, and sql . you can use these files to host the website. 
 
------------------------------------------------Payroll Management System In PHP With Source Code------------------------------------------
+                 Payroll Management System In PHP With Source 
 Features:
 
 1.	Login System.
